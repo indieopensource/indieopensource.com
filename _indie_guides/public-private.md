@@ -39,7 +39,7 @@ There are three big choices for public-private licensing:
 
 [What private licenses do I offer?](/public-private/private-licenses)
 
-[How do I handle outside contributions?](/public-private/contributions)
+[How do I handle outside contributions?](/public-private/contributors)
 
 ## Other Resources
 
