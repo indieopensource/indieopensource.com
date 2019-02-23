@@ -1,5 +1,5 @@
 ---
-title: What's an "indie"?
+title: What's "indie open source"?
 layout: default
 ---
 
