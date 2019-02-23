@@ -4,10 +4,20 @@
   <p><a href="{{page.homepage}}">{{page.homepage}}</a></p>
   {{ content }}
   {% if page.business_models %}
-  <h2>Business Models</h2>
-  {% for model in page.business_models %}
-    {{model}}
-  {% endfor %}
+    <h2>Business Models</h2>
+    <ul>
+    {% for model in page.business_models %}
+      <li>
+      {% if model == "public-private licensing" %}
+        <a href="/public-private/">Public-Private Licensing</a>
+      {% else if model == "open core" %}
+        <a href="/open-core/">Open Core</a>
+      {% else %}
+        {{model}}
+      {% endif %}
+      </li>
+    {% endfor %}
+    </ul>
   {% endif %}
 </main>
 {% include after.html %}
