@@ -17,6 +17,8 @@ collections:
     output: true
   contributor_guides:
     output: true
+  services:
+    output: true
 exclude:
 - Gemfile
 - Gemfile.lock

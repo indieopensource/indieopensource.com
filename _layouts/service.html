@@ -1,0 +1,27 @@
+{% include before.html %}
+<main>
+  <h1>{{page.title}}</h1>
+  <p><a href="{{page.homepage}}">{{page.homepage}}</a></p>
+  {{ content }}
+
+  {% if page.business_models %}
+    <h2>Business Models</h2>
+    <ul>
+    {% for model in page.business_models %}
+      <li>
+        {% include business-model.html %}
+      </li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+
+  {% if page.public_licenses %}
+    <h2>Public Licenses</h2>
+    <ul>
+    {% for license in page.public_licenses %}
+      <li><a href="https://spdx.org/licenses/{{license}}">{{license}}</a></li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+</main>
+{% include after.html %}
