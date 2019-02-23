@@ -1,7 +1,9 @@
 {% include before.html %}
 <main>
   <h1>{{page.title}}</h1>
-  <p><a href="{{page.homepage}}">{{page.homepage}}</a></p>
+  <p class="description">{{page.description}}</p>
+  <p><a href="{{page.repository}}/releases/latest">Latest Release</a></p>
+  <p><a href="{{page.repository}}">Project Repository</a></p>
   {{ content }}
   {% if page.business_models %}
     <h2>Business Models</h2>
