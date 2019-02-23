@@ -2,7 +2,7 @@
 title: Hibernating Rhinos
 homepage: https://hibernatingrhinos.com/
 business_models:
-- public-private licensing
+- public-private
 public_licenses:
 - AGPL-3.0
 layout: indie

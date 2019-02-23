@@ -2,7 +2,7 @@
 title: Particular Software
 homepage: https://particular.net/
 business_models:
-- public-private licensing
+- public-private
 public_licenses:
 - RPL-1.5
 layout: indie

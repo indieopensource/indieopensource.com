@@ -2,7 +2,7 @@
 title: Mergely
 homepage: http://mergely.com
 business_models:
-- public-private licensing
+- public-private
 public_licenses:
 - GPL-3.0
 - LGPL-3.0

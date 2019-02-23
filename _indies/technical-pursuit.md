@@ -2,7 +2,7 @@
 title: Technical Pursuit
 homepage: https://technicalpursuit.com/
 business_models:
-- public-private licensing
+- public-private
 public_licenses:
 - RPL-1.5
 layout: indie

@@ -1,11 +1,5 @@
-{% if model == "public-private licensing" %}
-  <a href="/public-private/">Public-Private Licensing</a>
-{% elsif model == "open core" %}
-  <a href="/open-core/">Open Core</a>
-{% elsif model == "paid support" %}
-  <a href="/paid-support/">Paid Support</a>
-{% elsif model == "paid development" %}
-  <a href="/paid-development/">Paid Development</a>
-{% else %}
-  {{model}}
-{% endif %}
+{% for record in site.models %}
+  {% if model == record.slug %}
+    <a href="{{record.url}}">{{record.title}}</a>
+  {% endif %}
+{% endfor %}
