@@ -1,9 +1,12 @@
-name: "Indie Open Source"
+title: "Indie Open Source"
 description: "open source for solo hackers and small firms"
 url: "https://indieopensource.com"
 homepage: "https://indieopensource.com"
 repository: "indieopensource/indieopensource.github.io"
 repository_url: "https://github.com/indieopensource/indieopensource.github.io"
+collections:
+  indies:
+    output: true
 exclude:
 - Gemfile
 - Gemfile.lock

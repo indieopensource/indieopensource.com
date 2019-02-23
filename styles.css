@@ -1,3 +1,77 @@
 body {
+  font-family: sans-serif;
   line-height: 1.4;
+}
+
+body > footer,
+body > header,
+body > main,
+body > nav {
+  margin: 0 auto;
+  max-width: 30rem;
+}
+
+h1, h2 {
+  border-bottom: 1px solid #ddd;
+}
+
+h2 {
+  margin-top: 2rem;
+}
+
+h3 {
+  margin-top: 2rem;
+}
+
+:target {
+  /*background-color: rgb(245, 255, 150);*/
+  position: relative;
+}
+
+:target:before {
+  content: '→';
+  left: -2rem;
+  position: absolute;
+}
+
+body > footer {
+  border-top: 1px solid black;
+  font-size: 85%;
+  margin-bottom: 2rem;
+  margin-top: 4rem;
+  text-align: right;
+}
+
+/* Global Header */
+
+body > header {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+body > header h1 {
+  border: none;
+}
+
+#logo {
+  max-width: 10rem;
+}
+
+/* Global Navigation */
+
+body > nav {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+body > nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+body > nav ul li {
+  display: inline;
+  margin: 0;
+  padding: 0;
 }

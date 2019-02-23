@@ -1,50 +1,38 @@
 <!doctype html>
-<html lang=en>
+<html lang="EN">
   <head>
-    <meta charset=UTF-8>
+    <meta charset="UTF-8">
 
-    <title>{{ site.name }} {{ page.title }}</title>
+    <title>{{ site.title }} / {{ page.title }}</title>
 
     <!-- Social Media Metadata -->
-    <meta name=twitter:card content=summary>
-    <meta name=twitter:description content="open source for solo hackers and small firms">
-    <meta name=twitter:image content=https://indieopensource.com/twitter-logo.png>
-    <meta name=twitter:site content=@indieopensource>
-    <meta name=twitter:title content="Indie Open Source">
-
-    <meta property=og:description content="open source for solo hackers and small firms">
-    <meta property=og:image content=https://indieopensource.com/facebook-logo.png>
-    <meta property=og:site_name content="Indie Open Source">
-    <meta property=og:title content="Indie Open Source">
-    <meta property=og:type content=website>
-    <meta property=og:url content=https://indieopensource.com/>
-
-    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{site.name}}">
-    <meta name="twitter:description" content="{{site.description}}">
-    <meta name="twitter:image" content="https://writing.kemitchell.com/placeholder-on-white.png">
-    <meta name="twitter:creator" content="@kemitchell">
-    <!-- OpenGraph -->
-    <meta name="og:type" content="website">
-    <meta name="og:title" content="{{site.title}}">
-    <meta name="og:description" content="{{site.description}}">
-    <meta name="og:image" content="https://writing.kemitchell.com/placeholder-on-white.png">
+    <meta name="twitter:description" content="{{page.description}}">
+    <meta name="twitter:image" content"{{site.social_media_image}}">
+    <meta name="twitter:site" content=@indieopensource>
+    <meta name="twitter:title" content="{{page.title}}">
 
-    <link rel=stylesheet href=/normalize.css>
-    <link rel=stylesheet href=/styles.css>
+    <meta property="og:description" content="{{page.description}}">
+    <meta property="og:image" content"{{site.social_media_image}}">
+    <meta property="og:site_name" content="{{site.title}}">
+    <meta property="og:title" content="{{page.title}}">
+    <meta property="og:url" content="{{site.url}}">
+
+    <link rel="stylesheet" href="/normalize.css">
+    <link rel="stylesheet" href="/styles.css">
   </head>
 
   <body>
-    <nav role=navigation>
-      <ul>
-        <li><a href=/>Home</a></li>
-        <li><a href=/users>For Users</a></li>
-        <li><a href=/indies>For Indies</a></li>
-        <li><a href=/contributors>For Contributors</a></li>
-      </ul>
-    </nav>
-
     <header>
+      <img alt="logo" id="logo" src="/logo.svg">
       <h1>Indie Open Source</h1>
     </header>
+
+    <nav role="navigation">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/for-users">For Users</a></li>
+        <li><a href="/for-indies">For Indies</a></li>
+        <li><a href="/for-contributors">For Contributors</a></li>
+      </ul>
+    </nav>
