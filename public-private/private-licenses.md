@@ -34,7 +34,7 @@ These goals become a bit tricky when customers want to make your software part o
 
 Unlike open source software, which usually comes without any promises that it will work well, or do what its documentation says, or not infringe others' intellectual property rights, paid software usually comes with warranties about all of those things.
 
-In a typical paid software deal, you will need to promise that you have the right to license the software, the software will work, overall, as described.  [Handling contributions correctly](./contributions) will help you to keep the first kind of promise.
+In a typical paid software deal, you will need to promise that you have the right to license the software, the software will work, overall, as described.  [Handling contributions correctly](./contributors) will help you to keep the first kind of promise.
 
 The toughest decision---and negotiation---about paid software warranties is usually responsibility for patent infringement.  Unlike copyrights, it's hard to know whether software infringes someone else's patent.  Customers usually want vendors to take responsibility for any patent claims against the software, by agreeing to pay their legal costs, and any legal damages, of patent suits.  The legal terms for these concepts are "patent noninfringement warranty", the promise that the software won't infringe any patents, and "indemnification", the promise to pay costs if it does.  Trouble is, costs of a patent claim can be extraordinarily high, even if the claim never goes to court.
 
