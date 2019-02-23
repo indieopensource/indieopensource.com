@@ -4,6 +4,8 @@ description: a guide to good options
 permalink: /public-private/public-licenses
 ---
 
+# {{page.title}}
+
 The hardest part of [public-private licensing](/public-private/) is picking the right public license.  That is to say, the legal terms that go in the `LICENSE` file, header comments, and package metadata for your project.
 
 That license needs to balance three goals:
