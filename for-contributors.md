@@ -5,3 +5,7 @@ layout: default
 ---
 
 # {{page.title}}
+
+## Guides
+
+[Contributing to Public-Private Licensing Projects](/public-private/contributors)

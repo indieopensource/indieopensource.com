@@ -1,7 +1,6 @@
 ---
 title: Public-Private Licensing for Indies
 description: a short, practical guide
-permalink: "/public-private/indies"
 ---
 
 # {{page.title}}
