@@ -3,7 +3,7 @@
   <head>
     <meta charset=UTF-8>
 
-    <title>Indie Open Source</title>
+    <title>{{ site.name }} {{ page.title }}</title>
 
     <!-- Social Media Metadata -->
     <meta name=twitter:card content=summary>
@@ -18,6 +18,18 @@
     <meta property=og:title content="Indie Open Source">
     <meta property=og:type content=website>
     <meta property=og:url content=https://indieopensource.com/>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{site.name}}">
+    <meta name="twitter:description" content="{{site.description}}">
+    <meta name="twitter:image" content="https://writing.kemitchell.com/placeholder-on-white.png">
+    <meta name="twitter:creator" content="@kemitchell">
+    <!-- OpenGraph -->
+    <meta name="og:type" content="website">
+    <meta name="og:title" content="{{site.title}}">
+    <meta name="og:description" content="{{site.description}}">
+    <meta name="og:image" content="https://writing.kemitchell.com/placeholder-on-white.png">
 
     <link rel=stylesheet href=/normalize.css>
     <link rel=stylesheet href=/styles.css>
@@ -36,14 +48,3 @@
     <header>
       <h1>Indie Open Source</h1>
     </header>
-
-    <main>
-      <section id=showcase>
-      </section>
-    </main>
-
-    <footer>
-      <p><a href=https://github.com/indieopensource>We are on GitHub.</a></p>
-    </footer>
-  </body>
-</html>
