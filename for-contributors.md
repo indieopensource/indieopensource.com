@@ -6,12 +6,6 @@ layout: default
 
 # {{page.title}}
 
-## Guides
-
-[Contributing to Public-Private Licensing Projects](/public-private/contributors)
-
-[Contributing to Open Core Projects](/open-core/contributors)
-
-[Contributing to Projects with Paid Support](/paid-support/contributors)
-
-[Contributing to Paid Development Projects](/paid-development/contributors)
+{% for guide in site.contributor_guides %}
+- [{{guide.title}}]({{guide.url}})
+{% endfor %}

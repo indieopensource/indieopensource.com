@@ -8,10 +8,6 @@ layout: default
 
 {{site.title}} hosts a number of explainer pages for various indie open source business models:
 
-[What is public-private licensing?](/public-private/users)
-
-[What is open core?](/open-core/users)
-
-[What is paid support?](/paid-support/users)
-
-[What is paid development?](/paid-development/users)
+{% for guide in site.user_guides %}
+- [{{guide.title}}]({{guide.url}})
+{% endfor %}

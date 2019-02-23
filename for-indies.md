@@ -12,35 +12,25 @@ layout: default
 
 {{site.title}} hosts a number of guides to popular business models for indie developers:
 
-- [Public-Private Licensing for Indies](/public-private/indies)
-
-- [Open Core for Indies](/open-core/indies)
-
-- [Paid Support for Indies](/paid-support/indies)
-
-- [Paid Development for Indies](/paid-development/indies)
+{% for guide in site.indie_guides %}
+- [{{guide.title}}]({{guide.url}})
+{% endfor %}
 
 ## Business Model Explainers
 
 {{site.title}} hosts a number of explainer pages, to help you communicate your business model to users:
 
-- [What is public-private licensing?](/public-private/users)
-
-- [What is open core?](/open-core/users)
-
-- [What is paid support?](/paid-support/users)
+{% for guide in site.user_guides %}
+- [{{guide.title}}]({{guide.url}})
+{% endfor %}
 
 ## Explainers for Contributors
 
 {{site.title}} hosts a number of explainer pages to help you communicate your business model to potential contributors to your projects:
 
-- [Contributing to Public-Private Licensing Projects](/public-private/contributors)
-
-- [Contributing to Open Core Projects](/open-core/contributors)
-
-- [Contributing to Projects with Paid Support](/paid-support/contributors)
-
-- [Contributing to Paid Development Projects](/paid-development/contributors)
+{% for guide in site.contributor_guides %}
+- [{{guide.title}}]({{guide.url}})
+{% endfor %}
 
 ## Legal Forms
 

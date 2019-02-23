@@ -8,7 +8,13 @@ collections:
   indies:
     output: true
   forms:
-      output: true
+    output: true
+  indie_guides:
+    output: true
+  user_guides:
+    output: true
+  contributor_guides:
+    output: true
 exclude:
 - Gemfile
 - Gemfile.lock
