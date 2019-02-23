@@ -18,6 +18,8 @@ layout: default
 
 - [Paid Support for Indies](/paid-support/indies)
 
+- [Paid Development for Indies](/paid-development/indies)
+
 ## Business Model Explainers
 
 {{site.title}} hosts a number of explainer pages, to help you communicate your business model to users:
@@ -32,11 +34,13 @@ layout: default
 
 {{site.title}} hosts a number of explainer pages to help you communicate your business model to potential contributors to your projects:
 
-- [Public-Private Licensing for Contributors](/public-private/contributors)
+- [Contributing to Public-Private Licensing Projects](/public-private/contributors)
 
-- [Open Core for Contributors](/open-core/contributors)
+- [Contributing to Open Core Projects](/open-core/contributors)
 
-- [Paid Support for Contributors](/paid-support/contributors)
+- [Contributing to Projects with Paid Support](/paid-support/contributors)
+
+- [Contributing to Paid Development Projects](/paid-development/contributors)
 
 ## Legal Forms
 

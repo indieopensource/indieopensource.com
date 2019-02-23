@@ -1,5 +1,5 @@
 ---
-title: Open Core for Indies
+title: Paid Development for Indies
 description:
 ---
 

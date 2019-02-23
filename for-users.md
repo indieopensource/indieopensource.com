@@ -13,3 +13,5 @@ layout: default
 [What is open core?](/open-core/users)
 
 [What is paid support?](/paid-support/users)
+
+[What is paid development?](/paid-development/users)
