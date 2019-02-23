@@ -6,7 +6,7 @@ layout: default
 
 # {{page.title}}
 
-## Business Models
+{{site.title}} hosts a number of explainer pages for various indie open source business models:
 
 [What is public-private licensing?](/public-private/users)
 
