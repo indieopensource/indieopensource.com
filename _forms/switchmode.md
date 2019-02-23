@@ -4,6 +4,6 @@ description: an open form contract for open source contractors
 repository: https://github.com/switchmode/switchmode
 layout: form
 business_models:
-- paid development
-- paid support
+- paid-development
+- paid-support
 ---
