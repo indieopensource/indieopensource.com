@@ -7,6 +7,8 @@ repository_url: "https://github.com/indieopensource/indieopensource.github.io"
 collections:
   indies:
     output: true
+  models:
+    output: true
   forms:
     output: true
   indie_guides:

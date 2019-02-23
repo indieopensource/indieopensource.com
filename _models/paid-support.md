@@ -1,6 +1,9 @@
 ---
 title: Paid Support
 description: resources for indies and users
+slug: paid-support
+permalink: /paid-support/
+layout: default
 ---
 
 # {{page.title}}

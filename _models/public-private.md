@@ -1,7 +1,9 @@
 ---
 title: Public-Private Licensing
 description: resources for indies and users
-permalink: "/public-private/"
+slug: public-private
+permalink: /public-private/
+layout: default
 ---
 
 # {{page.title}}

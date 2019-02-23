@@ -1,6 +1,9 @@
 ---
 title: Open Core
 description: resources for indies and users
+slug: open-core
+permalink: /open-core/
+layout: default
 ---
 
 # {{page.title}}

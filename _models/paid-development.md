@@ -1,6 +1,9 @@
 ---
 title: Paid Development
 description: resources for indies, users, and contributors
+slug: paid-development
+permalink: /paid-development/
+layout: default
 ---
 
 # {{page.title}}
