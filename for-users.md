@@ -11,3 +11,5 @@ layout: default
 [Public-Private Licensing Guide](/public-private/users)
 
 [Open Core](/open-core/users)
+
+[Paid Support](/paid-support/)
