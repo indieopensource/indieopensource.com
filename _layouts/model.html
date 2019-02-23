@@ -1,0 +1,13 @@
+{% include before.html %}
+<main>
+  <h1>{{page.title | escape}}</h1>
+  {{ content }}
+  <ul class="indies">
+  {% for indie in site.indies %}
+    {% if indie.business_models contains page.slug %}
+      <li><a href="{{indie.url}}">{{indie.title | escape}}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</main>
+{% include after.html %}
