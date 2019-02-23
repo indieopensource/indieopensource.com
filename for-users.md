@@ -8,8 +8,8 @@ layout: default
 
 ## Business Models
 
-[Public-Private Licensing Guide](/public-private/users)
+[What is public-private licensing?](/public-private/users)
 
-[Open Core](/open-core/users)
+[What is open core?](/open-core/users)
 
-[Paid Support](/paid-support/)
+[What is paid support?](/paid-support/users)
