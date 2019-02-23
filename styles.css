@@ -8,7 +8,7 @@ body > header,
 body > main,
 body > nav {
   margin: 0 auto;
-  max-width: 30rem;
+  max-width: 34rem;
 }
 
 h1, h2 {
