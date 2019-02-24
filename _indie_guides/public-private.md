@@ -41,6 +41,19 @@ There are three big choices for public-private licensing:
 
 3.  [How do I handle outside contributions?](/public-private/contributors)
 
+## Forms
+
+- [Paid License](/forms/license)
+- [CLA](/forms/cla)
+
+## Service Providers
+
+{% for service in site.services %}
+{% if service.business_models contains "public-private" %}
+- [{{service.title}}]({{service.url}})
+{% endif %}
+{% endfor %}
+
 ## Other Resources
 
 The public-private licensing business model is also called "dual licensing" and "selling exceptions".  Unfortunately, those terms are also used to mean other things.  But you can still find information about the business model online under those old names.

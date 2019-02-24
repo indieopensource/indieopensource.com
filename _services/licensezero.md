@@ -4,6 +4,7 @@ homepage: https://licensezero.com
 layout: service
 business_models:
 - public-private
+- open-core
 ---
 
 <!-- TODO -->

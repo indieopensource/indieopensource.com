@@ -37,6 +37,19 @@ Maintaining and explaining the allocation of features to open core and closed sh
 
 2.  [How do I license my closed shell?](/private-licenses)
 
+## Forms
+
+- [Paid License](/forms/license)
+- [CLA](/forms/cla)
+
+## Service Providers
+
+{% for service in site.services %}
+{% if service.business_models contains "open-core" %}
+- [{{service.title}}]({{service.url}})
+{% endif %}
+{% endfor %}
+
 ## Other Resources
 
 The concept of "open core" has existed for many years, under many different names.  The coining of "open core" has made it far easier to find resources about it:
