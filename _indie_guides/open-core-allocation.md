@@ -7,7 +7,9 @@ layout: default
 
 # {{page.title}}
 
-Perhaps the hardest part of [open core](/open-core/indies) is deciding what you will give away as open core, what you will sell as closed shell, and how to communicate that allocation to users and potential customers.  Do this well, and your open core can create scores of users who contribute patches back and graduate naturally to paying for licenses to use your closed shell.  Do this poorly, and you will have neither, with lots of complaints that your project is not truly open source.
+Perhaps the hardest part of [open core](/open-core/indies) is deciding what you will give away as open core, what you will sell as closed shell, and how to communicate that allocation to users and potential customers.
+
+Do this well, and your open core can create scores of users who contribute patches back and graduate naturally to paying for licenses to use your closed shell.  Do this poorly, and you will have neither, with lots of complaints that your project is not truly open source.
 
 A good open core allocation achieves several goals:
 
@@ -19,7 +21,9 @@ A good open core allocation achieves several goals:
 
 4.  Prevent others from outcompeting your closed shell, even though they don't have to contribute to your open core.
 
-That is a lot of goals.   Obvious means to achieving one goal work against other goals.  In fact, every goal connects to every other goal.  For example, if you put lots of functionality in your closed shell, there will be lots of incentive to buy licenses, and it will be difficult with others to offer competing software, but there may not be enough left to inspire adoption of your open core, and developers may criticize your project for being crippleware, rather than true open source.
+That is a lot of goals.   Obvious means to achieving one goal work against others.  In fact, every goal connects to every other goal.  If you put nearly all good functionality in your closed shell, there will be lots of incentive to buy licenses, and it will be difficult with others to offer competing software, but there may not be enough left to your open core to inspire adoption, and developers may criticize the project as crippleware, rather than true open source.
+
+Rather than set out a step-by-step guide to deciding on and messaging an open core allocation, this guide provides some case studies.  First come sketches of relatively large, VC-funded companies developing databases.  Compare and contrast their approaches.  Then comes an example of a classic indie dev shop, to compare and contrast.
 
 ## Database Companies
 
