@@ -6,3 +6,5 @@ layout: default
 ---
 
 # {{page.title}}
+
+Contributing to the open source projects where one developer offers paid support works the same as contributing to other open source projects.
