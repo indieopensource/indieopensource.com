@@ -7,4 +7,4 @@ layout: default
 
 # {{page.title}}
 
-<!-- TODO -->
+Contributing to the open source parts of open core projects usually works much the same as contributing to other open source projects.

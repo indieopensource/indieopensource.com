@@ -1,12 +1,13 @@
 ---
-title: Private Licenses for Public-Private Licensing
-description:
-permalink: /public-private/private-licenses
+title: Private Licensing
+description: models and terms for paid software licenses
+permalink: /private-licenses
+layout: default
 ---
 
 # {{page.title}}
 
-Once you've [chosen a public license for your project](./public-licenses), you need to decide what the private licenses that you sell to customers will say.
+Once you've [chosen a public license for your public-private licensing project](/public-private/public-licenses) or [decided what will be open core and what will be closed shell](/open-core/allocation),  you need to decide what the private licenses that you sell to customers will say.
 
 {{site.title}} maintains a [form paid license agreement](/forms/paid-license) as a place to start.  But there are a few decisions you need to make, with your particular project and customers in mind.
 

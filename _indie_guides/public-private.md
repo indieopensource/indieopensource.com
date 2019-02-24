@@ -35,11 +35,11 @@ Selling private licenses can itself take time, depending on your software and yo
 
 There are three big choices for public-private licensing:
 
-[Which public license do I choose for my project?](/public-private/public-licenses)
+1.  [Which public license do I choose for my project?](/public-private/public-licenses)
 
-[What private licenses do I offer?](/public-private/private-licenses)
+2.  [What private licenses do I offer?](/private-licenses)
 
-[How do I handle outside contributions?](/public-private/contributors)
+3.  [How do I handle outside contributions?](/public-private/contributors)
 
 ## Other Resources
 

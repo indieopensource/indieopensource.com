@@ -9,7 +9,7 @@ layout: default
 
 In a typical open source software project, everyone agrees to give their own contributions away under the same public license, like The MIT License or the GNU General Public License.  On the receiving side, everyone gets a license for all contributions to the project under just one set of terms: those of the public license.
 
-When [public-private licensing](/public-private/indies), the developer selling private licenses needs to be able to license all contributions to the project under two different sets of terms: those of the [public license](./public-licenses), and those of the [private license](./private-licenses).
+When [public-private licensing](/public-private/indies), the developer selling private licenses needs to be able to license all contributions to the project under two different sets of terms: those of the [public license](./public-licenses), and those of the [private license](/private-licenses).
 
 When there is just one contributor to the project, or all contributors work for the same company, that's no problem.  The contributor or company isn't going to sue itself for failing to follow the rules of its own public license.  As long as they doesn't use copyleft software _from others_ to build their project, it's up to them how to license their own, original work.  That includes offering their work under different public and private terms at the same time.
 
