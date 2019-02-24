@@ -15,7 +15,7 @@ Paid support is a proven business model for developers of open source software. 
 
 3.  Sign support contracts with paying customers.
 
-Paid support has worked for companies large and small, young and old, especially in combination with other models, like [paid development](/paid-development/indies) and [public-private licensing](/public-private/indies).  [RedHat](https://redhat.com) took paid support to new heights, epitomizing (and outlasting) the first cohort of "open source IPOs".  But many individual developers do well by selling support, too.
+Paid support has worked for companies large and small, young and old, especially in combination with other models, like [paid development](/paid-development/indies) and [public-private licensing](/public-private/indies).  [Cygnus](https://en.wikipedia.org/wiki/Cygnus_Solutions), later acquired by [RedHat](https://redhat.com), pioneered the model at scale.  But many individual developers do well by selling support, too.
 
 ## Pros
 
