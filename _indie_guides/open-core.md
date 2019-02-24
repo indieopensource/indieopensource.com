@@ -42,3 +42,5 @@ Maintaining and explaining the allocation of features to open core and closed sh
 The concept of "open core" has existed for many years, under many different names.  The coining of "open core" has made it far easier to find resources about it:
 
 - Joseph Jacks' [_Open Core --- Definition, Examples & Tradeoffs_](https://medium.com/open-consensus/e4d0c044da7c)
+
+- Spencer Kimball's [_How We're Building a Business to Last_](https://www.cockroachlabs.com/blog/how-were-building-a-business-to-last/)
