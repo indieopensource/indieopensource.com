@@ -1,9 +1,10 @@
 title: "Indie Open Source"
-description: "open source for solo hackers and small firms"
+description: "free business model resources for independent open source software developers"
 url: "https://indieopensource.com"
 homepage: "https://indieopensource.com"
 repository: "indieopensource/indieopensource.github.io"
 repository_url: "https://github.com/indieopensource/indieopensource.github.io"
+social_media_image: "https://indieopensource.com/logo-1200.png"
 collections:
   indies:
     output: true

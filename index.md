@@ -1,9 +1,8 @@
 ---
-title: Homepage
 layout: default
 ---
 
-This website provides free resources about business models for independent open source software developers.
+{{site.title}} publishes {{site.description}}.
 
 <h2 id="showcase">Showcase</h2>
 
