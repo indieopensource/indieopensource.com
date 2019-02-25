@@ -1,0 +1,8 @@
+<a href="{{indie.url}}">
+  {% if indie.logo %}
+  <img alt="{{indie.title | escape}}" src="{{indie.logo}}">
+  {% else %}
+  <img alt="{{indie.title | escape}}" src="/logos/placeholder.svg">
+  {% endif %}
+  {{indie.title}}
+</a>

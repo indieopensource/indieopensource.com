@@ -109,8 +109,20 @@ body > nav ul li {
 }
 
 .indies li {
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   height: 8rem;
   padding: 1rem;
+  position: relative;
+  text-align: center;
+  vertical-align: center;
   width: 8rem;
+}
+
+.indies img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
 }

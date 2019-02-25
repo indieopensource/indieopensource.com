@@ -8,6 +8,6 @@ layout: default
 
 <ul class="indies">
 {% for indie in site.indies %}
-<li><a href="{{indie.url}}">{{indie.title | escape}}</a></li>
+<li>{% include indie.html %}</li>
 {% endfor %}
 </ul>

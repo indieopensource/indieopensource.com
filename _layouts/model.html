@@ -5,7 +5,7 @@
   <ul class="indies">
   {% for indie in site.indies %}
     {% if indie.business_models contains page.slug %}
-      <li><a href="{{indie.url}}">{{indie.title | escape}}</a></li>
+      <li>{% include indie.html %}</li>
     {% endif %}
   {% endfor %}
   </ul>
