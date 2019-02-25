@@ -2,6 +2,7 @@
 title: Choosing a Public License for Public-Private Licensing
 description: a guide to good options
 permalink: /public-private/public-licenses
+layout: default
 ---
 
 # {{page.title}}
