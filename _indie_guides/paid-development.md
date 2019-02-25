@@ -37,10 +37,12 @@ With rare exception, developer can only charge one client, one time, for softwar
 
 ## Service Providers
 
+<ul class="services">
 {% for service in site.services %}
 {% if service.business_models contains "paid-development" %}
-- [{{service.title}}]({{service.url}})
+<li>{% include service.html %}</li>
 {% endif %}
 {% endfor %}
+</ul>
 
 <!-- TODO: Other Resources for Paid Development -->

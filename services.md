@@ -3,6 +3,8 @@ title: Services
 layout: default
 ---
 
+<ul class="services">
 {% for service in site.services %}
-- [{{service.title}}]({{service.url}})
+<li>{% include service.html %}</li>
 {% endfor %}
+</ul>

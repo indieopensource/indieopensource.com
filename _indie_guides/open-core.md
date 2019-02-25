@@ -44,11 +44,13 @@ Maintaining and explaining the allocation of features to open core and closed sh
 
 ## Service Providers
 
+<ul class="services">
 {% for service in site.services %}
 {% if service.business_models contains "open-core" %}
-- [{{service.title}}]({{service.url}})
+<li>{% include service.html %}</li>
 {% endif %}
 {% endfor %}
+</ul>
 
 ## Other Resources
 

@@ -48,11 +48,13 @@ There are three big choices for public-private licensing:
 
 ## Service Providers
 
+<ul class="services">
 {% for service in site.services %}
 {% if service.business_models contains "public-private" %}
-- [{{service.title}}]({{service.url}})
+<li>{% include service.html %}</li>
 {% endif %}
 {% endfor %}
+</ul>
 
 ## Other Resources
 

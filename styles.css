@@ -99,7 +99,8 @@ body > nav ul li {
   padding: 0;
 }
 
-.indies {
+.indies,
+.services {
   list-style: none;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -108,7 +109,8 @@ body > nav ul li {
   padding: 0;
 }
 
-.indies li {
+.indies li,
+.services li {
   /*border: 1px solid black;*/
   height: 8rem;
   padding: 1rem;
@@ -118,7 +120,8 @@ body > nav ul li {
   width: 8rem;
 }
 
-.indies img {
+.indies img,
+.services img {
   position: absolute;
   top: 0;
   left: 0;

@@ -37,10 +37,12 @@ Others can compete with you by providing support for your project.
 
 ## Service Providers
 
+<ul class="services">
 {% for service in site.services %}
 {% if service.business_models contains "paid-support" %}
-- [{{service.title}}]({{service.url}})
+<li>{% include service.html %}</li>
 {% endif %}
 {% endfor %}
+</ul>
 
 <!-- TODO: Other Resources for paid support -->

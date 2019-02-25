@@ -1,0 +1,8 @@
+<a href="{{service.url}}">
+  {% if service.logo %}
+  <img alt="{{service.title | escape}}" src="{{service.logo}}">
+  {% else %}
+  <img alt="{{service.title | escape}}" src="/logos/placeholder.svg">
+  {% endif %}
+  {{service.title}}
+</a>
