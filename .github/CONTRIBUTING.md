@@ -1,5 +1,9 @@
 # Contributions to indieopensource.com
 
+## In General
+
+indieopensource.com emphasizes _content_, rather than technology or design.  Keep things simple.  Work well with others.
+
 ## Adding an Indie
 
 1. [ ] Copy and adapt a Markdown file in `_indies`.
