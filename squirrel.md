@@ -10,3 +10,7 @@ description: a tiny Web Shrine to Squirrels
 > Squirrels have bitten to death a stray dog which was barking at them in a Russian park, local media report.
 >
 > [CNN, _Russian squirrel pack 'kills dog'_, December 1, 2005](http://news.bbc.co.uk/2/hi/4489792.stm)
+
+> I'm in your Infrastructures eatin your cables. Disrupting at the highest levels! It's #CyberWar4Ever!
+>
+> [@CyberSqurrel1](https://twitter.com/CyberSquirrel1)
