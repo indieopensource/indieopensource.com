@@ -10,5 +10,5 @@ description: a tiny Web Shrine to Squirrels
 [National Geographic](https://www.nationalgeographic.com/animals/mammals/group/squirrels/)
 
 > Squirrels have bitten to death a stray dog which was barking at them in a Russian park, local media report.
-
-[CNN, _Russian squirrel pack 'kills dog'_, December 1, 2005](http://news.bbc.co.uk/2/hi/4489792.stm)
+>
+> [CNN, _Russian squirrel pack 'kills dog'_, December 1, 2005](http://news.bbc.co.uk/2/hi/4489792.stm)
