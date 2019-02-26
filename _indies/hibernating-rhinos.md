@@ -6,6 +6,7 @@ business_models:
 public_licenses:
 - AGPL-3.0
 layout: indie
+logo: /logos/hibernating-rhinos.svg
 ---
 
 Hinbernating Rhinos developers RavenDB, a NoSQL Open Source Document Database.
