@@ -7,6 +7,7 @@ business_models:
 public_licenses:
 - LGPL-3.0
 layout: indie
+logo: /logos/sidekiq.svg
 ---
 
 Sidekiq offers simple, efficient background processing for Ruby.
