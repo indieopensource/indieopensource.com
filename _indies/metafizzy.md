@@ -7,6 +7,7 @@ business_models:
 public_licenses:
 - GPL-3.0
 layout: indie
+logo: /logos/metafizzy.svg
 ---
 
 Metafizzy makes delightful JavaScript plugins and logos.
