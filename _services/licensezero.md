@@ -5,6 +5,7 @@ layout: service
 business_models:
 - public-private
 - open-core
+logo: /logos/licensezero.svg
 ---
 
 <!-- TODO -->
