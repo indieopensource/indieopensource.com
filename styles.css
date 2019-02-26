@@ -138,3 +138,8 @@ body > nav ul li {
   width: 100%;
   z-index: 10;
 }
+
+.logo {
+  height: 10rem;
+  width: 10rem;
+}

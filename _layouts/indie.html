@@ -1,6 +1,7 @@
 {% include before.html %}
 <main>
   <h1>{{page.title}}</h1>
+  {% if page.logo %}<img class="logo" alt="logo" src="{{page.logo}}">{% endif %}
   <p><a href="{{page.homepage}}">{{page.homepage}}</a></p>
   {{ content }}
 
