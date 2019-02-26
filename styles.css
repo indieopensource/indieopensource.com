@@ -127,5 +127,14 @@ body > nav ul li {
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: -1;
+  z-index: 1;
+}
+
+.indies .name,
+.services .name {
+  left: 0;
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  z-index: 10;
 }
