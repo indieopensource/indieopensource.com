@@ -1,6 +1,6 @@
 ---
 title: Civilized Discourse Construction Kit
-homepage: https://discourse.com
+homepage: https://discourse.org
 business_models:
 - hosting
 public_licenses:
@@ -9,4 +9,4 @@ public_licenses:
 layout: indie
 ---
 
-Civilized Discourse Cosntruction Kit develops [Discourse](https://discourse.org) forum softare.
+Civilized Discourse Cosntruction Kit develops [Discourse](https://discourse.org) forum software.
