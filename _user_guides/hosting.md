@@ -7,4 +7,4 @@ layout: default
 
 # {{page.title}}
 
-<!-- TODO -->
+Paid hosting allows you or your company to hire the developers behind important open source software to run it for you, applying all their familiarity and expertise.  The income from hosting allows developers to fund further development of the software.
