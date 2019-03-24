@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
 
-    <title>{{ site.title }} / {{ page.title }}</title>
+    <title>{% if page.title %}{{ site.title }} / {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <!-- Social Media Metadata -->
     <meta name="twitter:card" content="summary">
