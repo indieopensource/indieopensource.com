@@ -4,6 +4,7 @@ homepage: https://patreon.com
 layout: service
 business_models:
 - ads
+logo: /logos/patreon.svg
 ---
 
 Patreon provides a platform for receiving recurring donations, optionally in exchange for listed perks.
