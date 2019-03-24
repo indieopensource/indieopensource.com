@@ -4,6 +4,7 @@ homepage: https://patreon.com
 layout: service
 business_models:
 - ads
+- delayed-release
 logo: /logos/patreon.svg
 ---
 
