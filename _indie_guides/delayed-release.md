@@ -17,7 +17,7 @@ Delayed release is a proven business model for developers of open source softwar
 
 4.  Once the delayed-release period has passed, release your delayed-release work in the open.
 
-Delayed release of code has a long history, going back at least as far as [Ghostscript](https://ghostscript.com).  It continues today through companies like [MariaDB](https://mariadb.com), through their [Business Source License](https://mariadb.com/bsl11/).
+Delayed release of code has a long history, going back at least as far as [Ghostscript](https://ghostscript.com).  It continues today through companies like [MariaDB](https://mariadb.com), via their [Business Source License](https://mariadb.com/bsl11/).
 
 Delayed release of other work, like security advisories, is also widespread.  [hapi.js](/indies/hapi) does this as a [Patreon](/services/patreon) perk.
 
