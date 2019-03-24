@@ -1,5 +1,5 @@
 ---
-title: Advertising
+title: Advertising for Indies
 description: sell ads in project documentation and websites
 permalink: /ads/indies
 layout: default
