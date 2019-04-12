@@ -43,8 +43,13 @@ There are three big choices for public-private licensing:
 
 ## Forms
 
-- [Paid License](/forms/license)
-- [CLA](/forms/cla)
+<ul class="forms">
+{% for form in site.forms %}
+{% if form.business_models contains "public-private" %}
+<li><a href="{{form.url}}">{{form.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
 
 ## Service Providers
 

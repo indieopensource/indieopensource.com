@@ -31,9 +31,15 @@ Depending on contract structure, can produce recurring revenue.
 
 With rare exception, developer can only charge one client, one time, for software created.
 
-## Form
+## Forms
 
-[Switchmode](/forms/switchmode)
+<ul class="forms">
+{% for form in site.forms %}
+{% if form.business_models contains "paid-development" %}
+<li><a href="{{form.url}}">{{form.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
 
 ## Service Providers
 

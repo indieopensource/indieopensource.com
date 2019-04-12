@@ -29,7 +29,13 @@ Others can freely compete with you by hosting the same open source software.
 
 Time spent hosting, or creating tools to do so, takes time away from project development.
 
-## Form
+<ul class="forms">
+{% for form in site.forms %}
+{% if form.business_models contains "hosting" %}
+<li><a href="{{form.url}}">{{form.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
 
 [Slipstream](/forms/slipstream)
 

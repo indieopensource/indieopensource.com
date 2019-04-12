@@ -39,8 +39,14 @@ Maintaining and explaining the allocation of features to open core and closed sh
 
 ## Forms
 
-- [Paid License](/forms/license)
-- [CLA](/forms/cla)
+<ul class="forms">
+{% for form in site.forms %}
+{% if form.business_models contains "open-core" %}
+<li><a href="{{form.url}}">{{form.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
 
 ## Service Providers
 

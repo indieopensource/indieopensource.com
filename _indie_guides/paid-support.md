@@ -31,9 +31,16 @@ Selling support creates a disincentive to improve documentation.
 
 Others can compete with you by providing support for your project.
 
-## Form
+## Forms
 
-{{site.title}} publishes a [form support contract](/forms/support).
+<ul class="forms">
+{% for form in site.forms %}
+{% if form.business_models contains "paid-support" %}
+<li><a href="{{form.url}}">{{form.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
 
 ## Service Providers
 
