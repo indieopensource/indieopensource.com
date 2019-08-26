@@ -10,4 +10,4 @@ logo: /logos/cdck.svg
 layout: indie
 ---
 
-Civilized Discourse Cosntruction Kit develops [Discourse](https://discourse.org) forum software.
+Civilized Discourse Construction Kit develops [Discourse](https://discourse.org) forum software.
