@@ -9,7 +9,7 @@ layout: default
 
 Once you've [chosen a public license for your public-private licensing project](/public-private/public-licenses) or [decided what will be open core and what will be closed shell](/open-core/allocation),  you need to decide what the private licenses that you sell to customers will say.
 
-{{site.title}} maintains a [form paid license agreement](/forms/paid-license) as a place to start.  But there are a few decisions you need to make, with your particular project and customers in mind.
+{{site.title}} maintains a [form paid license agreement](/forms/license) as a place to start.  But there are a few decisions you need to make, with your particular project and customers in mind.
 
 ## Licensing Models
 
