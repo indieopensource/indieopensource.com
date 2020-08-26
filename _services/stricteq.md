@@ -1,11 +1,10 @@
 ---
-title: License Zero
-homepage: https://licensezero.com
+title: strictEq
+homepage: https://stricteq.com
 layout: service
 business_models:
 - public-private
-- open-core
-logo: /logos/licensezero.svg
+logo: /logos/stricteq.svg
 ---
 
 <!-- TODO -->
