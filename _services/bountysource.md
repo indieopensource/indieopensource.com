@@ -1,6 +1,6 @@
 ---
 title: BountySource
-homepage: https://bountysource.com
+homepage: https://www.bountysource.com
 layout: service
 business_models:
 - paid-support
