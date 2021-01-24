@@ -2,8 +2,8 @@ title: "Indie Open Source"
 description: "free business model resources for independent open source software developers"
 url: "https://indieopensource.com"
 homepage: "https://indieopensource.com"
-repository: "indieopensource/indieopensource.github.io"
-repository_url: "https://github.com/indieopensource/indieopensource.github.io"
+repository: "indieopensource/indieopensource.com"
+repository_url: "https://github.com/indieopensource/indieopensource.com"
 social_media_image: "https://indieopensource.com/logo-1200.png"
 collections:
   indies:
