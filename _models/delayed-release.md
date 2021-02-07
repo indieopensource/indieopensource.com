@@ -2,7 +2,7 @@
 title: Delayed Release
 description: resources for indies and users
 slug: delayed-release
-permalink: /delayed/
+permalink: /delayed-release-release-release-release-release-release-release-release/
 layout: model
 ---
 
