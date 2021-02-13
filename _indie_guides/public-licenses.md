@@ -81,7 +81,7 @@ No:  [Continue here.](#no-open-source-option)
 
 Nearly everyone's working definition of "open source" excludes licenses that flat out prohibit use of the software in any particular way.  That doesn't mean you can't do public-private licensing, but the good public licenses that could work for you will make your software "source available" instead of "open source".
 
-Consider a source-available license like [Prosperity](https://licensezero.com/licenses/prosperity), a public software license inspired by [Creative Commons' NonCommercial license](https://creativecommons.org/licenses/by-nc/4.0/).  If making your project open source is important to you, consider other business models, like [open core](./open-core/indies).
+Consider a source-available license like [Prosperity](https://licensezero.com/licenses/prosperity), a public software license inspired by [Creative Commons' NonCommercial license](https://creativecommons.org/licenses/by-nc/4.0/).  If making your project open source is important to you, consider other business models, like [open core](/open-core/indies).
 
 ## Public License Options
 
