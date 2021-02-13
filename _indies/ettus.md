@@ -1,6 +1,6 @@
 ---
 title: Ettus Research
-homepage: https://www.ettus.com/
+homepage: https://www.ettus.com/sdr-software/licenses/
 business_models:
 - public-private
 - paid-support
@@ -11,4 +11,4 @@ layout: indie
 logo: /logos/ettus.svg
 ---
 
-Ettus Research makes a [USRP hardware driver](https://www.ettus.com/sdr-software/detail/usrp-hardware-driver) and [RF network-on-chip](https://www.ettus.com/sdr-software/detail/rf-network-on-chip) software for software-defined radios.
+Ettus Research makes a USRP hardware driver and RF network-on-chip software for software-defined radios.
