@@ -1,6 +1,6 @@
 ---
 title: CodeFund
-homepage: https://codefund.io
+homepage: https://opencollective.com/codefund
 layout: service
 business_models:
 - ads
